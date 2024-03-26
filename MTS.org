@@ -1,4 +1,4 @@
-#+TITLE: Manuel de Transition Systémique
+#+TITLE: Manuel de Facilitation pour une Transition Systémique
 #+AUTHOR: Nicolas STAMPF
 #+EMAIL: nicolas.stampf@gmail.com
 #+CREATOR: Nicolas STAMPF
