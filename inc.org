@@ -1,13 +1,7 @@
-#+title: test i'clusion fichier pour export
+#+title: fichier inc.org
 
-* Premier titre
+* titre niveau 1 inc.org
 
-blzbla.avant include
-
-#+include: "inc.org"
-
-blabla apres
-
-* 2e titre dans index
-
-azerry
+contenu
+** titre niveau 2 inc.org
+fkfkf
