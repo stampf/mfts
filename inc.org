@@ -1,0 +1,13 @@
+#+title: test i'clusion fichier pour export
+
+* Premier titre
+
+blzbla.avant include
+
+#+include: "inc.org"
+
+blabla apres
+
+* 2e titre dans index
+
+azerry
